@@ -1,0 +1,6 @@
+@MenuSystem_HostAddress = http://localhost:5061
+
+GET {{MenuSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
