@@ -45,3 +45,4 @@
 /Users/neslihanbcolak/RiderProjects/MenuSystemSolution/MenuSystem/obj/Debug/net8.0/MenuSystem.pdb
 /Users/neslihanbcolak/RiderProjects/MenuSystemSolution/MenuSystem/obj/Debug/net8.0/MenuSystem.genruntimeconfig.cache
 /Users/neslihanbcolak/RiderProjects/MenuSystemSolution/MenuSystem/obj/Debug/net8.0/ref/MenuSystem.dll
+/Users/neslihanbcolak/RiderProjects/MenuSystemSolution/MenuSystem/bin/Debug/net8.0/example.json

@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSystem", "MenuSystem\MenuSystem.csproj", "{A60BD853-CB5E-432E-9C05-CCE3D020E9BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSystemTest", "MenuSystemTest\MenuSystemTest.csproj", "{E8BCF5D0-95E4-4313-BEF2-D1E0361F1DAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSystemConsoleTest", "MenuSystemConsoleTest\MenuSystemConsoleTest.csproj", "{43CEA332-2710-493B-AC41-0D24FA44CA9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{A60BD853-CB5E-432E-9C05-CCE3D020E9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A60BD853-CB5E-432E-9C05-CCE3D020E9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A60BD853-CB5E-432E-9C05-CCE3D020E9BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8BCF5D0-95E4-4313-BEF2-D1E0361F1DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8BCF5D0-95E4-4313-BEF2-D1E0361F1DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8BCF5D0-95E4-4313-BEF2-D1E0361F1DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8BCF5D0-95E4-4313-BEF2-D1E0361F1DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CEA332-2710-493B-AC41-0D24FA44CA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CEA332-2710-493B-AC41-0D24FA44CA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CEA332-2710-493B-AC41-0D24FA44CA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CEA332-2710-493B-AC41-0D24FA44CA9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
