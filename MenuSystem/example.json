@@ -1,0 +1,43 @@
+{
+  "name": "Main Menu",
+  "items": [
+    {
+      "name": "Pizza",
+      "price": 12.99
+    },
+    {
+      "name": "Burger",
+      "price": 8.99
+    }
+  ],
+  "subCategories": [
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Coke",
+          "price": 2.50
+        },
+        {
+          "name": "Water",
+          "price": 1.00
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Ice Cream",
+          "price": 4.50
+        },
+        {
+          "name": "Cake",
+          "price": 5.00
+        }
+      ],
+      "subCategories": []
+    }
+  ]
+}
